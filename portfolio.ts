@@ -184,10 +184,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Metamask',
           iconifyTag: 'logos:metamask-icon',
         },
-        {
-          skillName: 'Ganache',
-          iconifyTag: 'logos:ganache-icon',
-        },
+        // {
+        //   skillName: 'Ganache',
+        //   iconifyTag: 'logos:ganache-icon',
+        // },
       ],
     },
   ],
@@ -196,11 +196,11 @@ export const skillsSection: SkillsSectionType = {
 export const SkillBars: SkillBarsType[] = [
   {
     Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-    progressPercentage: '90', //Insert relative proficiency in percentage
+    progressPercentage: '76', //Insert relative proficiency in percentage
   },
   {
     Stack: 'Backend',
-    progressPercentage: '70',
+    progressPercentage: '80',
   },
   {
     Stack: 'Programming',
@@ -208,7 +208,7 @@ export const SkillBars: SkillBarsType[] = [
   },
   {
     Stack: 'Graphic design',
-    progressPercentage: '100',
+    progressPercentage: '95',
   },
 ];
 
