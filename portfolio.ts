@@ -237,7 +237,7 @@ export const educationInfo: EducationType[] = [
     ],
   },
   {
-    schoolName: 'Abothuguchi Primary School',
+    schoolName: 'Abothuguchi Boarding Primary School',
     subHeader: 'Primary School Education',
     duration: '2004 – DECEMBER 2014 ',
     desc: 'I  did my primary school Education.',
