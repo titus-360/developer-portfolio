@@ -265,7 +265,7 @@ export const projects: ProjectType[] = [
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/titus-360/developer-portfolio',
-    link: 'https://developer-portfolio-eta-seven.vercel.app/',
+    link: 'https://developer-portfolio-r1ivi25v2-titus-360s-projects.vercel.app/',
   },
 
 ];
