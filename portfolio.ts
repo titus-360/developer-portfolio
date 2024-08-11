@@ -51,8 +51,8 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         {
-          skillName: 'HTML-5',
-          iconifyTag: 'vscode-icons:file-type-html',
+          skillName: 'Spring Boot',
+          iconifyTag: 'vscode-icons:spring',
         },
         {
           skillName: 'CSS-3',
